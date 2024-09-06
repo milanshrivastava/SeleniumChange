@@ -16,5 +16,6 @@ public class selectExample {
 
         Select select=new Select(element);
         select.selectByValue("2");
+        select.selectByValue("3");
     }
 }
